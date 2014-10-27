@@ -1,0 +1,33 @@
+﻿html {    
+    background-color: green;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;   
+}
+
+#message {
+    color: #4c96dd;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    text-align: center;    
+    margin-top: 30%;
+}
+
+#newUser {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#link {
+    color: white;
+    font-weight: bold;
+    text-shadow: initial;
+    text-decoration: underline;    
+}
+
+a:hover {
+    color: azure;
+}

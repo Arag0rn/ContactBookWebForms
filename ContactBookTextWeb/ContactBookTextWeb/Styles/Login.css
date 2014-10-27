@@ -1,0 +1,45 @@
+﻿html {    
+    background-color: green;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;    
+}
+
+.loginFields {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 20%;    
+}
+
+.labels {
+    margin-bottom: 2%;
+}
+
+.textBoxes {
+    margin-bottom: 5%;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 5%;   
+}
+
+#newUser {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#link {
+    color: white;
+    font-weight: bold;
+    text-shadow: initial;
+    text-decoration: underline;    
+}
+
+a:hover {
+    color: azure;
+}

@@ -1,0 +1,63 @@
+\\vmware-host\Shared Folders\Desktop\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.dll.config
+\\vmware-host\Shared Folders\Desktop\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.dll
+\\vmware-host\Shared Folders\Desktop\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.pdb
+\\vmware-host\Shared Folders\Desktop\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.dll
+\\vmware-host\Shared Folders\Desktop\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.pdb
+\\vmware-host\Shared Folders\Desktop\ContactBookTextWeb\ContactBookTextWeb\bin\DataAcces.dll
+\\vmware-host\Shared Folders\Desktop\ContactBookTextWeb\ContactBookTextWeb\bin\DataAcces.pdb
+E:\ContactBook - new\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.dll
+E:\ContactBook - new\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.pdb
+E:\ContactBook - new\ContactBookTextWeb\ContactBookTextWeb\bin\DataAcces.dll
+E:\ContactBook - new\ContactBookTextWeb\ContactBookTextWeb\bin\DataAcces.pdb
+E:\ContactBook - new\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.csprojResolveAssemblyReference.cache
+E:\ContactBook - new\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.dll
+E:\ContactBook - new\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.pdb
+\\vmware-host\Shared Folders\Desktop\Valchanov\ContactBook bundle\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.dll.config
+\\vmware-host\Shared Folders\Desktop\Valchanov\ContactBook bundle\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.dll
+\\vmware-host\Shared Folders\Desktop\Valchanov\ContactBook bundle\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.pdb
+\\vmware-host\Shared Folders\Desktop\Valchanov\ContactBook bundle\ContactBookTextWeb\ContactBookTextWeb\bin\DataAcces.dll
+\\vmware-host\Shared Folders\Desktop\Valchanov\ContactBook bundle\ContactBookTextWeb\ContactBookTextWeb\bin\DataAcces.pdb
+\\vmware-host\Shared Folders\Desktop\Valchanov\ContactBook bundle\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Valchanov\ContactBook bundle\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.dll
+\\vmware-host\Shared Folders\Desktop\Valchanov\ContactBook bundle\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.pdb
+C:\Users\gargaml\Desktop\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.dll.config
+C:\Users\gargaml\Desktop\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.pdb
+C:\Users\gargaml\Desktop\ContactBookTextWeb\ContactBookTextWeb\bin\DataAcces.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb\ContactBookTextWeb\bin\DataAcces.pdb
+C:\Users\gargaml\Desktop\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.csprojResolveAssemblyReference.cache
+C:\Users\gargaml\Desktop\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.Properties.Resources.resources
+C:\Users\gargaml\Desktop\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.csproj.GenerateResource.Cache
+C:\Users\gargaml\Desktop\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.pdb
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.dll.config
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.dll
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\ContactBookTextWeb\bin\ContactBookTextWeb.pdb
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\ContactBookTextWeb\bin\DataAcces.dll
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\ContactBookTextWeb\bin\DataAcces.pdb
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.csprojResolveAssemblyReference.cache
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.Properties.Resources.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.csproj.GenerateResource.Cache
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.dll
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.pdb
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\bin\ContactBookTextWeb.dll.config
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\bin\ContactBookTextWeb.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\bin\ContactBookTextWeb.pdb
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\bin\DataAcces.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\bin\DataAcces.pdb
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.csprojResolveAssemblyReference.cache
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.Properties.Resources.resources
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.csproj.GenerateResource.Cache
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.pdb
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\bin\ContactBookTextWeb.dll.config
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\bin\ContactBookTextWeb.dll
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\bin\ContactBookTextWeb.pdb
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\bin\DataAcces.dll
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\bin\DataAcces.pdb
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.csprojResolveAssemblyReference.cache
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.Properties.Resources.resources
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.csproj.GenerateResource.Cache
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.dll
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb (Server.MapPath)\ContactBookTextWeb\obj\Debug\ContactBookTextWeb.pdb

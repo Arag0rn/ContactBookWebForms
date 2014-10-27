@@ -1,0 +1,39 @@
+﻿html {    
+    background-color: green;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;    
+}
+
+.regFields {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.labels {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttons {
+    margin-top: 5%;
+}
+
+#existingUser {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#link {
+    color: white;
+    font-weight: bold;
+    text-shadow: initial;
+    text-decoration: underline;    
+}
+
+a:hover {
+    color: azure;
+}

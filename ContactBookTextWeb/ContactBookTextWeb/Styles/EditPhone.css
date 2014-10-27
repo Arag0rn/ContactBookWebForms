@@ -1,0 +1,41 @@
+﻿html {    
+    background-color: green;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;   
+}
+
+.header {
+    height: 30px;   
+    background-color: #4c96dd;    
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    padding-top: 10px;
+    text-align: center;    
+}
+
+.buttons {
+    margin-right: 3%;   
+}
+
+.contactFields {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.labels {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.operation {
+    margin-top: 5%;
+}
+
+#BtnAdministration {
+    margin-left: 3%;
+}

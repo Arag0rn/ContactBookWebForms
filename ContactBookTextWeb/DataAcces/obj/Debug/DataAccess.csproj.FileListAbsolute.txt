@@ -1,0 +1,43 @@
+\\vmware-host\Shared Folders\Desktop\ContactBookTextWeb\DataAcces\bin\Debug\DataAcces.dll
+\\vmware-host\Shared Folders\Desktop\ContactBookTextWeb\DataAcces\bin\Debug\DataAcces.pdb
+\\vmware-host\Shared Folders\Desktop\ContactBookTextWeb\DataAcces\obj\Debug\DataAcces.dll
+\\vmware-host\Shared Folders\Desktop\ContactBookTextWeb\DataAcces\obj\Debug\DataAcces.pdb
+E:\ContactBook - new\ContactBookTextWeb\DataAcces\bin\Debug\DataAcces.dll
+E:\ContactBook - new\ContactBookTextWeb\DataAcces\bin\Debug\DataAcces.pdb
+E:\ContactBook - new\ContactBookTextWeb\DataAcces\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ContactBook - new\ContactBookTextWeb\DataAcces\obj\Debug\DataAcces.dll
+E:\ContactBook - new\ContactBookTextWeb\DataAcces\obj\Debug\DataAcces.pdb
+\\vmware-host\Shared Folders\Desktop\Valchanov\ContactBook bundle\ContactBookTextWeb\DataAcces\bin\Debug\DataAcces.dll
+\\vmware-host\Shared Folders\Desktop\Valchanov\ContactBook bundle\ContactBookTextWeb\DataAcces\bin\Debug\DataAcces.pdb
+\\vmware-host\Shared Folders\Desktop\Valchanov\ContactBook bundle\ContactBookTextWeb\DataAcces\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Valchanov\ContactBook bundle\ContactBookTextWeb\DataAcces\obj\Debug\DataAcces.dll
+\\vmware-host\Shared Folders\Desktop\Valchanov\ContactBook bundle\ContactBookTextWeb\DataAcces\obj\Debug\DataAcces.pdb
+C:\Users\gargaml\Desktop\ContactBookTextWeb\DataAcces\bin\Debug\DataAcces.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb\DataAcces\bin\Debug\DataAcces.pdb
+C:\Users\gargaml\Desktop\ContactBookTextWeb\DataAcces\obj\Debug\DataAcces.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb\DataAcces\obj\Debug\DataAcces.pdb
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\DataAcces\bin\Debug\DataAcces.dll
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\DataAcces\bin\Debug\DataAcces.pdb
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\DataAcces\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\DataAcces\obj\Debug\DataAcces.dll
+C:\Users\gargaml\Desktop\ContactBookText NEW\ContactBookTextWeb\DataAcces\obj\Debug\DataAcces.pdb
+C:\Users\gargaml\Desktop\ContactBookTextWeb\DataAcces\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\gargaml\Desktop\ContactBookTextWeb\DataAcces\bin\Debug\System.Web.Http.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb\DataAcces\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb\DataAcces\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb\DataAcces\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb\DataAcces\bin\Debug\System.Web.Http.xml
+C:\Users\gargaml\Desktop\ContactBookTextWeb\DataAcces\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\gargaml\Desktop\ContactBookTextWeb\DataAcces\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\DataAcces\bin\Debug\DataAcces.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\DataAcces\bin\Debug\DataAcces.pdb
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\DataAcces\bin\Debug\System.Web.Http.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\DataAcces\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\DataAcces\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\DataAcces\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\DataAcces\bin\Debug\System.Web.Http.xml
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\DataAcces\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\DataAcces\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\DataAcces\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\DataAcces\obj\Debug\DataAcces.dll
+C:\Users\gargaml\Desktop\ContactBookTextWeb (Server.MapPath)\DataAcces\obj\Debug\DataAcces.pdb
